@@ -1,2 +1,4 @@
 # analizador-de-texto
 1ra tarea de progra 3
+
+Este programa está desarrollado en Python y permite analizar un texto para contar cuántas veces aparece cada palabra. El usuario puede elegir entre leer el texto desde un archivo .txt o escribirlo directamente en la consola. El programa normaliza el texto convirtiéndolo a minúsculas y eliminando signos de puntuación, luego divide el contenido en palabras y muestra la frecuencia de cada una. Para ejecutarlo se deben seguir estos pasos: primero, tener instalado Python 3; segundo, descargar o clonar el repositorio; tercero, abrir la terminal en la carpeta donde está el archivo main.py; cuarto, ejecutar el comando python main.py; y finalmente, elegir la opción deseada (1 para leer desde archivo o 2 para ingresar texto manualmente). El programa incluye pruebas básicas usando assert para verificar que la normalización, la tokenización y el conteo funcionen correctamente.
