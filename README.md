@@ -22,7 +22,7 @@ El usuario puede ingresar texto manualmente o leerlo desde un archivo `.txt`.
 - Pruebas básicas con `assert`
 
 ## Requisitos
-- Python 3 instalado
+- Python instalado
 
 ## Cómo ejecutar
 
@@ -31,4 +31,4 @@ El usuario puede ingresar texto manualmente o leerlo desde un archivo `.txt`.
 3. Ejecutar:
 
 ```bash
-python main.py
+pythoN main1.py
